@@ -1,1 +1,2 @@
 # Proyecto-Softech
+Este proyecto fue realizado como actividad práctica del programa SENATIC con el fin de entender cómo funciona la planeación de una app desde la priorización de requisitos hasta el maquetado de su interfase visual. El proyecto cuenta con diagrama UML, un tablero con WIREFRAMES, un documento de especificación de requisitos siguiendo las normas del IEE y un documento de priorización de requisitos. Todo esto a raíz de un problema planteado en el programa: rescatar un proyecto (sistema para la clínica "Huellitas Felices").
